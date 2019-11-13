@@ -1,4 +1,4 @@
-# tensorfolw-
+# tensorflow-
 只需导入训练数据，一键训练模型就行，调用方式已写好，直接加载模型
 
 直接在settings里面配置选项
